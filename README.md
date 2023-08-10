@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HAX079</h1>
+<h1 align="center">Hi 👋, I'm Hax</h1>
 <h3 align="center">16 Year old guy, who learns coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hax-mc&label=Profile%20views&color=0e75b6&style=flat" alt="hax-mc" /> </p>
