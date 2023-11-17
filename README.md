@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hax</h1>
-<h3 align="center">16 Year old guy, who learns coding.</h3>
+<h3 align="center">16 Year old guy that's rworded.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hax-mc&label=Profile%20views&color=0e75b6&style=flat" alt="hax-mc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hax-mc" alt="hax-mc" /></a> </p>
 
-- 🔭 I’m currently working on [XenZ](https://discord.gg/xenz)
+- 🔭 I’m currently working on nothing!
 
 - 🌱 I’m currently learning **Java, TypeScript and C#**
 
-- 👯 I’m looking to collaborate on [Wing Alts](https://discord.gg/cudTMeumyp)
+- 👯 I’m looking to collaborate on anything
 
 - 👨‍💻 All of my projects are available at [https://github.com/HAX-MC/](https://github.com/HAX-MC/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **revrikbiznes@gmail.com**
 
-- ⚡ Fun fact **Minehut is trash**
+- ⚡ Fun fact **Minehut is sweet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
